@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/windmill-labs/windmill
-    tag: "1.854.2@sha256:b765d13a92e22b6ef1fef1b93cfa072696194b0c5198d087639c7ca6f2126fc6"
+    tag: "1.855.1@sha256:474fceb2b81445ab9dac9383cb3884133c1ddd0a68e85dcab24a784f7d110bb5"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"

@@ -1,7 +1,7 @@
 images:
   image:
     repository: ghcr.io/zammad/zammad
-    tag: "7.2.2-0029@sha256:1a913801556fe9c40e2c8fd3782569416bafeeef74f84f332533b3610d2712d1"
+    tag: "7.2.2-0032@sha256:96a4abd42f7f4c8b70e30c34814405e7ff6a1be67f49ddfebfed24a1f221a780"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"

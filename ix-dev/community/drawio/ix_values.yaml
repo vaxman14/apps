@@ -1,7 +1,7 @@
 images:
   image:
     repository: jgraph/drawio
-    tag: "32.6.1@sha256:3d0a5a5ffb4f76abcecd9d17ae1373e3eefd0db07b657c545637dc9c6a7412e1"
+    tag: "32.6.9@sha256:8a25d78e91275a7ebc0cfcca782a5eb357292752c9c886286448d6951db684e2"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"

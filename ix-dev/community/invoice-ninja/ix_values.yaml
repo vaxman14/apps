@@ -1,7 +1,7 @@
 images:
   image:
     repository: invoiceninja/invoiceninja-octane
-    tag: "5.13.51@sha256:080d52fa5c88270658499b95f718b35c936c69909cb1d07352ac0a3191097c4b"
+    tag: "5.13.52@sha256:8cbd3d4eec888fbd8d28be6d4cb722ec4c3ec6ddcda39d5e9077296122588316"
   container_utils_image:
     repository: ghcr.io/truenas/containers/container-utils
     tag: "1.1.2@sha256:6ddfdc314af9d18cfacb836ad266ef0ed91fecaa3686b20be72e464972860c08"
